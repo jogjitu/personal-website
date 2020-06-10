@@ -1,91 +1,97 @@
 {
   "basics": {
-    "name": "José Coelho",
-    "label": "DevOps Engineer",
-    "picture": "images/jcoelho.webp",
-    "x_pictureFallback": "images/jcoelho.jpg",
+    "name": "Jitendra Jogeshwar",
+    "label": "Software Engineer",
+    "picture": "images/profile_pic.webp",
+    "x_pictureFallback": "images/profile_pic.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 4 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
+    "summary": "13 years since working in IT. I work as QA engineer and learning the DevOps world.",
     "location": {
-      "country": "Hungary",
-      "countryCode": "HU",
-      "region": "Budapest"
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Mumbai"
     },
     "profiles": [
       {
-        "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
-        "x_icon":"fab fa-2x fa-dev"
+        "network": "GitHub",
+        "username": "jogjitu",
+        "url": "https://github.com/jogjitu",
+        "x_icon": "fab fa-2x fa-github"
       },
       {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "jitendrajogeshwar",
+        "url": "https://www.linkedin.com/in/jitendrajogeshwar",
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
-        "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
-        "x_icon": "fab fa-2x fa-github"
+        "network": "Software Testing University",
+        "username": "jitendra.jogeshwar@gmail.com",
+        "url": "https://www.softwaretestinguniversity.com",
+        "x_icon": "fas fa-2x fa-chalkboard-teacher"
       }
     ]
   },
   "work": [
     {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
+      "company": "Initialyze",
+      "position": "QA Engineer",
+      "clinet": "ServiceNow",
+      "website": "https://www.initialyze.com/",
+      "startDate": "2019",
       "endDate": "",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "summary": "Joined Initialyze on Contract to work with SericeNow client to implement an enhance QA practises. Helping Initialyze with other tasks like Hiring, Blogging",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
+      "company": "Delta Exchange",
       "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
+      "website": "https://www.delta.exchange/",
+      "startDate": "2018-06-01",
+      "endDate": "",
+      "summary": "Joined as QA Engineer. Thank to the oppurtunity now working as DevOps Engineer",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
+      "company": "Modus Create",
+      "position": "QA Engineer",
+      "website": "https://www.moduscreate.com",
+      "startDate": "2017-04-01",
+      "endDate": "2019-05-01",
+      "summary": "Worked as QA Engineer for couple of projects. I worked performanc testing using JMeter and Gatling. I also worked on Codeception for automation",
+      "highlights": [
+        "Performance testing",
+        "Automation using Codeception",
+        "JMeter",
+        "Gatling"
+      ]
     },
     {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
+      "company": "Utopia Solutions",
+      "position": "QA Automation Engineer",
+      "website": "https://utopiasolutions.com",
+      "startDate": "2015-06-01",
+      "endDate": "2019-02-01",
+      "summary": "Create Automation frameworks with Selenium in java. Manage team and mentor technically for helping them with automation scripts",
+      "highlights": ["Selenium", "Java"]
     },
     {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
-      "highlights": []
+      "company": "Pathship",
+      "position": "QA Lead",
+      "website": "https://www.linkedin.com/company/pathship/about/",
+      "startDate": "2016-06-01",
+      "endDate": "2017-04-01",
+      "summary": "Manage QA process, Automation framework with Serenity in Java, Integrate with Jenkins for CI and follow agile practises",
+      "highlights": ["Cypress", "Selenium"]
     }
   ],
   "education": [
     {
-      "institution": "University of Madeira",
+      "institution": "PCCOE - Pimpri Chinchwad College Of Engineering",
       "area": "Computer Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
+      "startDate": "2002-06-15",
+      "endDate": "2006-06-15",
       "courses": [
         "Object Oriented Programming",
         "Database Management Systems",
@@ -97,22 +103,22 @@
   "skills": [
     {
       "name": "Jenkins",
-      "level": "Advanced",
+      "level": "Basic",
       "keywords": ["DevOps"]
     },
     {
-      "name": "Continuous Integration",
-      "level": "Advanced",
+      "name": "Kubernetes",
+      "level": "Basic",
       "keywords": ["DevOps"]
     },
     {
       "name": "Scripting",
-      "level": "Advanced",
+      "level": "Basic",
       "keywords": ["DevOps"]
     },
     {
       "name": "Containers",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["DevOps"]
     },
     {
@@ -131,39 +137,39 @@
       "keywords": ["DevOps"]
     },
     {
-      "name": "Object Oriented Programming",
+      "name": "Manual Testing",
       "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "keywords": ["Software Testing"]
     },
     {
-      "name": "Design Patterns",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "name": "Selenium",
+      "level": "Advanced",
+      "keywords": ["Software Testing"]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": ["Software Testing"]
     },
     {
-      "name": "REST API",
+      "name": "API Testing",
       "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "keywords": ["Software Testing"]
     },
     {
-      "name": "Unit Testing",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "name": "Automation Testing",
+      "level": "Advanced",
+      "keywords": ["Software Testing"]
     },
     {
-      "name": "MySQL",
+      "name": "Performance Testing",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": ["Software Testing"]
     },
     {
-      "name": "MongoDB",
+      "name": "JMeter",
       "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "keywords": ["Software Testing"]
     }
   ],
   "languages": [
@@ -172,26 +178,22 @@
       "fluency": "Fluent speaker"
     },
     {
-      "language": "Portuguese",
-      "fluency": "Native speaker"
+      "language": "Hindi",
+      "fluency": "Fluent speaker"
     }
   ],
   "interests": [
     {
-      "name": "Travel bug",
-      "x_icon": "fa-globe-africa"
+      "name": "Cricket",
+      "x_icon": "fa-trophy"
     },
     {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
+      "name": "Finance",
+      "x_icon": "fa-chart-line"
     },
     {
       "name": "Foodie",
       "x_icon": "fa-utensils"
-    },
-    {
-      "name": "Live in the now",
-      "x_icon": "fa-brain"
     }
   ]
 }

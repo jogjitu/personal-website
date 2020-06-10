@@ -1,11 +1,19 @@
 import React from "react";
 import Badge from "../elements/Badge";
 import Resume from "../../resume.json";
+import ParticlesContainer from "../ParticlesContainer";
 
 function AboutMe() {
   return (
-    <section className="section has-background-link" id="aboutMe">
+    <section
+      className="section"
+      id="aboutMe"
+      style={{
+        backgroundColor: "#000080",
+      }}
+    >
       <div className="container has-text-centered">
+        <ParticlesContainer></ParticlesContainer>
         <figure className="image container is-180x180">
           <img
             width="180px"
@@ -13,7 +21,10 @@ function AboutMe() {
             src={Resume.basics.picture}
             alt={Resume.basics.name}
             className="is-rounded"
-            onError={(e)=>{e.target.onerror = null; e.target.src=Resume.basics.x_pictureFallback}}
+            onError={(e) => {
+              e.target.onerror = null;
+              e.target.src = Resume.basics.x_pictureFallback;
+            }}
           />
         </figure>
         <p className="subtitle is-4 has-text-white has-text-weight-bold">

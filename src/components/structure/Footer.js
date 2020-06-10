@@ -2,12 +2,12 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer has-background-link">
+    <footer className="footer" style={{ backgroundColor: "#000080" }}>
       <div className="content has-text-centered has-text-white">
         <p>
-          Built at <i className="fas fa-moon"></i> by{" "}
-          <a href="https://github.com/jcoelho93" className="has-text-white">
-            <strong>José Coelho</strong>
+          Built to <i className="fas fa-user-graduate	"></i> by{" "}
+          <a href="https://github.com/jogjitu" className="has-text-white">
+            <strong>Jitendra Jogeshwar</strong>
           </a>
         </p>
         <p>
